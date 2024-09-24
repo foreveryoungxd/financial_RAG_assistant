@@ -7,12 +7,12 @@
 ----
 
 ### Использование локальной LLM (T5-large-instruct-v0.1)
-<img src="./resources/RAG_screenshot2.png" alt="Использование локальной LLM" width="700"/>
+<img src="./resources/RAG_screenshot3.png" alt="Использование локальной LLM" width="700"/>
 
 ----
 
 ### Возможность поиска по собственным документам, вне существующей базы знаний
-<img src="./resources/RAG_screenshot3.png" alt="Поиск по собственным документам" width="700"/>
+<img src="./resources/RAG_screenshot2.png" alt="Поиск по собственным документам" width="700"/>
 
 ----
 
