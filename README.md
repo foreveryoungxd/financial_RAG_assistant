@@ -47,7 +47,7 @@
 pip install -r requirements.txt
 ```
 
-1. Create `.env` in the `./app` dir
+1. Create `.env` in working dir
 
 ``` 
 credentials=GIGACHAT AUTH DATA (GigaChat for developers -> secret )
