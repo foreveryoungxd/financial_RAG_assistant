@@ -53,7 +53,8 @@ pip install -r requirements.txt
 credentials=GIGACHAT AUTH DATA (GigaChat for developers -> secret )
 ```
 2. Run vectorbase_creation.py script to create an instance of ChromaDB vectorbase for docs searching
-3. Run app.py. **Note** use **checkpoint** to download LLM model. For later development, use **model_path** instead not to re-download the model each time you run the app
+3. Run app.py. **Note**:
+ use **checkpoint** to download LLM model. For later development, use **model_path** instead not to re-download the model each time you run the app
    
 ```
 python3.12 -m streamlit run app.py
