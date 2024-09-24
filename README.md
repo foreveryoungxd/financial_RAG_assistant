@@ -27,14 +27,14 @@
 ### Структура проекта
 
 ```
-├── app.py # основная директория проекта
 ├── docs # содержит данные для проекта
-├── vectorbase_creation # скрипт для создания БД
-├── htmlTemplates # более приятный интерфейс для streamlit
+├── resources # ресурсы проекта
 ├── vectorbase # БД на основе ChromaDB
 ├── README.md
+├── app.py # ассистент
+├── htmlTemplates # более приятный интерфейс для streamlit
 ├── requirements.txt
-└── resources # ресурсы проекта
+└── vectorbase_creation # скрипт для создания БД
 ```
 
 # How to run? Запуск решения
