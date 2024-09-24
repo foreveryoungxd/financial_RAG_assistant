@@ -1,5 +1,4 @@
 models/
-vectorbase/
 .env
 .venv/*
 .idea/
